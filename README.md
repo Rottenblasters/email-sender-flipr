@@ -9,5 +9,5 @@
 - open your Postman console
 - In Postman send a POST request to `localhost:3000/send`
 
-![request-body]()
+![request-body](https://github.com/Rottenblasters/email-sender-flipr/blob/master/flipr_email_sender.PNG)
 
